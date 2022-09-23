@@ -30,10 +30,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="react" width="40" height="40"/>
 </a>
 
-<a href="https://mui.com/" target="_blank"> 
-    <img src="https://github.com/matoruru/purescript-react-material-ui-svgicon.git" alt="react" width="40" height="40"/>
-</a>
-
 <a href="https://www.mongodb.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"></a>
 <p style="padding:4px"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kamleshsharma-labs&show_icons=true&locale=en" alt="kamleshsharma-labs" /></p>
