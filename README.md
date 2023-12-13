@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BidClips](https://bidclips.com/)
 
-- 🌱 I’m currently learning **react-redux**
+- 🌱 I’m currently learning **Java and SpringBoot**
 
 - 📫 How to reach me **kamlesharma15798@gmail.com** or **kamlesharma14223@gmail.com** 
 
